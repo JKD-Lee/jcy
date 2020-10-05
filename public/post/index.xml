@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on MXR-Lee</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on MXR-Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Win10下安装Archlinux子系统</title>
+      <link>/p/win10%E4%B8%8B%E5%AE%89%E8%A3%85archlinux%E5%AD%90%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/p/win10%E4%B8%8B%E5%AE%89%E8%A3%85archlinux%E5%AD%90%E7%B3%BB%E7%BB%9F/</guid>
+      <description>在Win10系统下，最简单安装ArchLinux子系统 1.启用适用于Linux的Windows子系统 控制面板-程序-启用或关闭Windows功能-启用适用于Linux的Windows子系统-重启电脑 2.下载安装ArchLinux 1.进入ArchWSL,下载Arch.zip,解压至一个具有写权限的普通文件夹(注：Program Files文件夹不具备写的权限)
+2.双击解压出的Arch.exe.执行安装
+3.配置ArchLinux 1.使用如下命令，初始化keyrin(使用pacman必须执行此命令)
+sudo pacman-key --init sudo pacman-key --populate 2.打开Arch.exe根目录下的rootfs\etc\pacman.d\mirrorlist,将##China及以下的server全部剪切至## Worldwide之前，并将server之前的#全部删除，保存退出(换源提升下载速度)
+3.执行pacman -Syyu命令更新组件
+最后，请尽情享用吧 注：根据官方提示，Win10系统版本号需在1709之后 </description>
+    </item>
+    
+    <item>
+      <title>ZBrush2021</title>
+      <link>/p/zbrush2021/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/p/zbrush2021/</guid>
+      <description>ZBrush2021.1.2 2020-08-13 Pixologic is pleased to release ZBrush 2021.1.2. This important update to ZBrush 2021 includes the following:
+ Claypolish Surface adjusted Gizmo3D snap rotation updated Subtool renaming dialog box returned to normal size Fixed BPR NPR Filter render issue Resolved Dynamesh precision crash with subtractive elements Increased ZSketch stability Mask By Smoothness adjusted Fixed copy and paste issue with NanoMesh Subtools Fixed Document ‘Double’ stability issue Fixed Morph target causing shattered geometry ZModeler &amp;raquo; Poly &amp;raquo; Inset &amp;raquo; Polygroup Island should no longer crash with triangles Optimal performance updated to increase stability Weld Points adjusted NoiseMaker Angles now can be used in 45 degrees Preferences: &amp;raquo; Performance &amp;raquo; Optimal now stores with the config Locked custom interface buttons can now be removed Fixed issue involving canvas layers Directional masking issue resolved when using roll brushes Vertex Color issue resolved with OBJ import Gizmo3D screen space move stability improved 2.</description>
+    </item>
+    
+    <item>
+      <title>中文文章内容测试</title>
+      <link>/p/test-chinese/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/p/test-chinese/</guid>
+      <description>正文测试 而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。
+奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。
+引用  思念是最暖的忧伤像一双翅膀
+让我停不了飞不远在过往游荡
+不告而别的你 就算为了我着想
+这么沉痛的呵护 我怎么能翱翔
+最暖的憂傷 - 田馥甄
+ 图片   Photo by Florian Klauer on Unsplash    Photo by Luca Bravo on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>ZBrushCoreMini</title>
+      <link>/p/zbrushcoremini/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/p/zbrushcoremini/</guid>
+      <description>ZBrushCoreMini 2020-06-11 Pixologic is proud to introduce a new member of the ZBrush family of software: ZBrushCoreMini.
+ZBrushCoreMini provides a simplified version of the Academy Award Winning ZBrush software used by leading digital artists around the world. ZBrushCoreMini is designed for new artists of all ages, with a streamlined interface that lets anyone jump right in and start sculpting immediately.
+  2 
+This is a true introductory level digital sculpting application, intended for easy learning no matter your age or experience.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry4B安装ArchlinuxARM</title>
+      <link>/p/raspberry4b%E5%AE%89%E8%A3%85archlinuxarm/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/p/raspberry4b%E5%AE%89%E8%A3%85archlinuxarm/</guid>
+      <description>Raspberry4B下ArchLinuxARM系统的安装配置 前言 环境及工具
+1.Linux环境
+2.SD卡格式化工具
+1.配置Linux系统环境 为了获取Linux环境，最简便的方法就是虚拟机安装Linux系统，本人采用manjaro系统,是ArchLinux的衍生发行版，继承了ArchLinux的滚动更新特性,用VMWare虚拟机进行安装，由于Manjaro具有LiveCD系统(类似Windows的PE系统)，并且已经安装好了Vmware Tools，这样在实体机与虚拟机之间复制粘贴文件及命令就更加方便，实际上只需要配置好虚拟机，进入LiveCD系统就可以
+2.制作ArchLinuxARM系统 1.进入Manjaro的LiveCD系统，插入SD卡，虚拟机识别，选择连接到虚拟机，确定
+2.左侧开始菜单打开终端Terminal
+3.输入su切换系统用户
+4.输入fdisk -l查看当前插入SD卡的 /dev/sdX
+5.输入fdisk /dev/sdX,X替换为各自显示值，输入m查看具体使用命令
+6.依此输入以下命令，进行格式化分区
+1. d ## 删除分区 2. n,p,1 ## n创建分区,p设置主分区,1设置第一分区，并enter确认 3. +100M 4. t,c ## 将第一分区改为W95 FAT32 （LBA） 5. n,p,2 ## n创建第二分区，p设置主分区，enter两次默认确定 6. w ## 保存退出 创建挂载系统  mkfs.vfat /dev/sdX1 mkdir boot mount /dev/sdX1 boot mkfs.ext4 /dev/sdX2 mkdir root mount /dev/sdX2 root 下载系统并提取到根目录  wget http://mirrors.ustc.edu.cn/archlinuxarm/os/ArchLinuxARM-rpi-4-latest.tar.gz bsdtar -xpf ArchLinuxARM-rpi-4-latest.tar.gz -C root sync 复制文件到boot分区
+mv root/boot/* boot 卸载分区</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>/p/markdown-syntax-guide/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/p/markdown-syntax-guide/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>/p/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/p/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>/p/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/p/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>/p/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/p/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

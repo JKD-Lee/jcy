@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZBrush on MXR-Lee</title>
+    <link>/tags/zbrush/</link>
+    <description>Recent content in ZBrush on MXR-Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/zbrush/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZBrush2021</title>
+      <link>/p/zbrush2021/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/p/zbrush2021/</guid>
+      <description>ZBrush2021.1.2 2020-08-13 Pixologic is pleased to release ZBrush 2021.1.2. This important update to ZBrush 2021 includes the following:
+ Claypolish Surface adjusted Gizmo3D snap rotation updated Subtool renaming dialog box returned to normal size Fixed BPR NPR Filter render issue Resolved Dynamesh precision crash with subtractive elements Increased ZSketch stability Mask By Smoothness adjusted Fixed copy and paste issue with NanoMesh Subtools Fixed Document ‘Double’ stability issue Fixed Morph target causing shattered geometry ZModeler &amp;raquo; Poly &amp;raquo; Inset &amp;raquo; Polygroup Island should no longer crash with triangles Optimal performance updated to increase stability Weld Points adjusted NoiseMaker Angles now can be used in 45 degrees Preferences: &amp;raquo; Performance &amp;raquo; Optimal now stores with the config Locked custom interface buttons can now be removed Fixed issue involving canvas layers Directional masking issue resolved when using roll brushes Vertex Color issue resolved with OBJ import Gizmo3D screen space move stability improved 2.</description>
+    </item>
+    
+    <item>
+      <title>ZBrushCoreMini</title>
+      <link>/p/zbrushcoremini/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/p/zbrushcoremini/</guid>
+      <description>ZBrushCoreMini 2020-06-11 Pixologic is proud to introduce a new member of the ZBrush family of software: ZBrushCoreMini.
+ZBrushCoreMini provides a simplified version of the Academy Award Winning ZBrush software used by leading digital artists around the world. ZBrushCoreMini is designed for new artists of all ages, with a streamlined interface that lets anyone jump right in and start sculpting immediately.
+  2 
+This is a true introductory level digital sculpting application, intended for easy learning no matter your age or experience.</description>
+    </item>
+    
+  </channel>
+</rss>

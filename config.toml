@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
-paginate = 5
+paginate = 6
 title = "MXR-Lee"
 disqusShortname = "stack"            # Change it to your Disqus shortname before using
 DefaultContentLanguage = "zh-CN"                   # Theme i18n support
