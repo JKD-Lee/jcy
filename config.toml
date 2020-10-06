@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "stack"
-paginate = 6
+paginate = 5
 title = "MXR-Lee"
 disqusShortname = "stack"            # Change it to your Disqus shortname before using
 DefaultContentLanguage = "zh-CN"                   # Theme i18n support
@@ -25,7 +25,7 @@ DefaultContentLanguage = "zh-CN"                   # Theme i18n support
         math = false
         [params.article.license]
             enabled = true 
-            default = "Licensed under CC BY-NC-SA 4.0"
+            default = "JKD-Lee"
     [params.comments]
         enabled = false
         provider = "disqus"         # Available: disqus, utterances    
@@ -73,12 +73,12 @@ DefaultContentLanguage = "zh-CN"                   # Theme i18n support
         url = "about"
         weight = -90
         pre = "user"
-    [[menu.main]]
-        identifier = "archives"
-        name = "Archives"
-        url = "archives"
-        weight = -70
-        pre = "archives"
+#    [[menu.main]]
+#        identifier = "archives"
+#        name = "Archives"
+#        url = "archives"
+#        weight = -70
+#        pre = "archives"
 
 [related]
     includeNewer = true
